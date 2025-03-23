@@ -13,7 +13,7 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Alessandro Celani"
 description              : &description "personal description"
-url                      : "https://alecelani94.github.io" 
+url                      : https://alecelani94.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alecelani94.github.io"
 
