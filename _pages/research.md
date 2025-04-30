@@ -7,7 +7,8 @@ author_profile: true
 
 ## Working papers 
 * "The Macroeconomic Effects of Inflation Expectations: the Distribution Matters", with Guido Ascari and Paolo Bonomolo [[CEPR DP](https://cepr.org/publications/dp18937)]
-* "Moderate Time Varying Parameter VARs", with Luca Pedini
+* "Moderate Time Varying Parameter VARs", with Luca Pedini 
+* "Bayesian Time Varying Local Projections", with Igor F. B. Martins 
 
 ## Published
 * "Bayesian Variable Selection for Matrix Autoregressive Models" (2024), with Galin Jones and Paolo Pagnottoni,  _Statistics and Computing_ [[DOI](https://doi.org/10.1007/s11222-024-10402-y)]
