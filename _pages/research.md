@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working papers 
 * "The Macroeconomic Effects of Inflation Expectations: the Distribution Matters", with Guido Ascari and Paolo Bonomolo [[CEPR DP](https://cepr.org/publications/dp18937)]
-* "Moderate Time Varying Parameter VARs", with Luca Pedini 
+* "Moderate Time Varying Parameter VARs", with Luca Pedini [WP](files/Moderate_TVP_VAR.pdf)
 * "Bayesian Time Varying Local Projections", with Igor F. B. Martins 
 
 ## Published
