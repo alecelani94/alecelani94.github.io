@@ -5,4 +5,5 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* Statistics and Econometrics (BSc, Örebro University) [[link](https://www.oru.se/utbildning/kurser/kurs/statistik-ekonometri-fortsattningskurs-st210g)]
+* Statistics and Econometrics, Msc-level, Örebro University (2024 - )
+* Programming for Economics and Finance, Örebro University (2025 - )
