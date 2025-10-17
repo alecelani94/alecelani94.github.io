@@ -5,5 +5,5 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* Statistics and Econometrics, Msc-level, Örebro University (2024 - )
-* Programming for Economics and Finance, Örebro University (2025 - )
+* Statistics and Econometrics, Msc level, Örebro University (2024 - )
+* Programming for Economics and Finance, Msc level, Örebro University (2025 - )
