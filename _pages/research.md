@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ## Working papers 
-* "The Macroeconomic Effects of Inflation Expectations: the Distribution Matters", with Guido Ascari and Paolo Bonomolo, _Submitted_ [[CEPR DP](https://cepr.org/publications/dp18937)] [New version](/files/IED_latest.pdf)
-* "Moderate Time Varying Parameter VARs", with Luca Pedini [WP](/files/MTVP_VAR_latest.pdf)
+* "The Macroeconomic Effects of Inflation Expectations: the Distribution Matters", with Guido Ascari and Paolo Bonomolo, _Submitted_ [[CEPR DP](https://cepr.org/publications/dp18937)] [[New version](/files/IED_latest.pdf)]
+* "Moderate Time Varying Parameter VARs", with Luca Pedini, _Submitted_ [[WP](https://swopec.hhs.se/oruesi/abs/oruesi2025_016.htm)]
 
 ## Published
 * "Bayesian Variable Selection for Matrix Autoregressive Models" (2024), with Galin Jones and Paolo Pagnottoni,  _Statistics and Computing_ [[DOI](https://doi.org/10.1007/s11222-024-10402-y)]
@@ -16,6 +16,5 @@ author_profile: true
 * "Endemic-Epidemic Models to Understand Covid-19 Spatio-Temporal Evolution" (2021), with Paolo Giudici, _Spatial Statistics_ [[DOI](https://doi.org/10.1016/j.spasta.2021.100528)]
 
 ## Work in progress
-* "Sectoral Price Distribution Dynamics", with Guido Ascari, Paolo Bonomolo and Maximilian Schröder
 * "Clustering Heterogeneous VARs"
 * "Bayesian Time Varying Local Projections", with Igor F. B. Martins 
