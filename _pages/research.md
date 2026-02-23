@@ -9,6 +9,11 @@ author_profile: true
 * "The Macroeconomic Effects of Inflation Expectations: the Distribution Matters", with Guido Ascari and Paolo Bonomolo, _Submitted_ [[CEPR DP](https://cepr.org/publications/dp18937)] [[New version](/files/IED_latest.pdf)]
 * "Moderate Time Varying Parameter VARs", with Luca Pedini, _Revision requested at Journal of Business & Economic Statistics_ [[WP](https://swopec.hhs.se/oruesi/abs/oruesi2025_016.htm)]
 
+## Work in progress
+* "Mixed Frequency Time-Varying Parameter VARs", with Hoang Nguyen and Luca Pedini
+* "Bilinear Time Variation for High-Dimensional Time-Varying Parameter VARs", with Luca Pedini
+* "Stochastic Volatility models with Skewness in Mean", with Igor F. B. Martins
+
 ## Published
 * "Bayesian Variable Selection for Matrix Autoregressive Models" (2024), with Galin Jones and Paolo Pagnottoni,  _Statistics and Computing_ [[DOI](https://doi.org/10.1007/s11222-024-10402-y)]
 * "The Topological Structure of Panel Variance Decomposition Networks" (2024), with Paola Cerchiello and Paolo Pagnottoni, _Journal of Financial Stability_ [[DOI](https://doi.org/10.1016/j.jfs.2024.101222)]
