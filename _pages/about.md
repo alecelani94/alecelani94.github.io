@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in Economics and Statistics at the [School of Business & Economics](https://www.oru.se/institutioner/handelshogskolan/) at [Örebro University](https://www.oru.se/) specializing in econometrics and empirical macroeconomics. 
+I am a postdoctoral researcher in Economics and Statistics at the [School of Business & Economics](https://www.oru.se/institutioner/handelshogskolan/) at Örebro University specializing in econometrics and empirical macroeconomics. 
 
 I obtained my PhD at Università Politecnica delle Marche. During my doctoral studies, I was a visiting researcher at the [School of Statistics](https://cla.umn.edu/statistics) at the University of Minnesota and a research intern in the Research Department of the Dutch Central Bank.
 
