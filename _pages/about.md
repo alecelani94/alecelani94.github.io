@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Economist in the Monetary Policy Section of the [Oesterreichische Nationalbank](https://www.oenb.at/en/) (Austrian National Bank) in Vienna, specializing in econometrics and empirical macroeconomics. I remain affiliated with the [School of Business & Economics](https://www.oru.se/institutioner/handelshogskolan/) at Örebro University.
+I am an Economist in the Monetary Policy Section of the [Oesterreichische Nationalbank](https://www.oenb.at/en/) in Vienna, specializing in econometrics and empirical macroeconomics. I am also an affiliated researcher at the [School of Business & Economics](https://www.oru.se/institutioner/handelshogskolan/) at Örebro University.
 
 I earned my Ph.D. in Economics from the [Università Politecnica delle Marche](https://dises.univpm.it/en/phd-40th-thematic-fields-and-programmes/) in 2023. During my doctoral studies, I was a visiting researcher at the [School of Statistics](https://cla.umn.edu/statistics) at the University of Minnesota and a research intern in the Research Department of the [Dutch Central Bank](https://www.dnb.nl/en/).
 
